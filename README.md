@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Eduarda-Nere
-- 👀 I’m interested in  
-- 🌱 I’m currently learning  JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, eu sou @Eduarda-Nere
+- 🌱 Atualmente estou aprendendo JavaScript
+- 📫 Para falar comigo: eduardanere890@gmail.com
 
 <!---
 Eduarda-Nere/Eduarda-Nere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
