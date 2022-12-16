@@ -1,5 +1,4 @@
 - 👋 Olá, eu sou @Eduarda-Nere
-- 🌱 Atualmente estou aprendendo JavaScript
 - 📫 Para falar comigo: eduardanere890@gmail.com
 
 <!---
