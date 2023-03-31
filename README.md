@@ -26,7 +26,7 @@
             <p> Técnico em Informática integrado ao ensino médio - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Capivari</p>
           </li>
           <li>
-            <h2>Curso 🖊️</h2>
+            <h2>Curso ✏️</h2>
             <p> Compuway (2018 - 2021) <br> Windows, Word, Digitação, Internet e Secretariado Executivo.</p>
           </li>
           <li>
@@ -36,6 +36,9 @@
             <br>
             <label><b>Sistema Web - Departamento de Habitação da Prefeitura Municipal de Capivari</b></label>
             <p> O projeto visou desenvolver, em parceria com a Prefeitura de Capivari, um sistema web responsivo capaz de atender e gerenciar os processos habitacionais de pessoas que vivem em espaços insalubres no Município de Capivari. Exemplo: sistema de login, ChatBot, excluir ou inserir dados e restringir perfis (gestor, administrador e usuário). </p>
+            <br>
+            <label><b>Conexão: reflexão e conscientização contra a violência à mulher</b></label>
+            <p> O projeto se propõe a criar, divulgar e monitorar a repercussão de conteúdos informativos e reflexivos sobre a violência contra a mulher nas redes sociais e na mídia local. Fizemos isso por meio de postagens no Instagram, webinars, cartilhas e vídeos informando as mulheres sobre os serviços de apoio que podem acessar e os tipos de violência que sofrem. </p>
           </li>
         </ul>
       </div>
