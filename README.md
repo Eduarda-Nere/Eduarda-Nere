@@ -23,8 +23,17 @@
         </div>
           <li>
             <h2>Formação Acadêmica 🎓</h2>
-            <p> Técnico em Informática integrado ao ensino médio - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Capivari</p>
+            <p> Técnico em Informática integrado ao ensino médio (2020 - 2022) <br> Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Capivari</p>
           </li>
+            <div class="container">
+            <ul>
+              <li>
+                <h2>Idiomas ✈️</h2>
+                <p>Inglês (básico)</p>
+                <p>Espanhol (básico)</p>
+              </li>
+            </ul>
+          </div>
           <li>
             <h2>Curso ✏️</h2>
             <p> Compuway (2018 - 2021) <br> Windows, Word, Digitação, Internet e Secretariado Executivo.</p>
@@ -52,11 +61,6 @@
             <p>JavaScript (iniciante)</p>
             <p>PHP (iniciante)</p>
             <p>C# (iniciante)</p>
-          </li>
-          <li>
-            <h2>Idiomas ✈️</h2>
-            <p>Inglês (básico)</p>
-            <p>Espanhol (básico)</p>
           </li>
           <li>
             <h2>Competências 👨‍🎓</h2>
