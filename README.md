@@ -8,14 +8,14 @@
   <ul>
     <li>
       <h2>Sobre mim 😄</h2>
-      <p>Busco uma oportunidade para desenvolver-me profissionalmente e colocar em prática o que aprendi no IFSP de Capivari. Durante meu ensino médio, participei de vários projetos que me permitiram mergulhar no mundo da programação, o que me ajudou a descobrir que tenho interesse nesta área e que pretendo continuar a programar. Busco aprimorar minhas habilidades de codificação e ter a oportunidade de trabalhar nessa área seria ótimo, já que pretendo investir mais nela no futuro.</p>
+      <p>Busco uma oportunidade para desenvolver-me profissionalmente e colocar em prática o que aprendi no IFSP de Capivari. Durante meu ensino médio, participei de vários projetos que me permitiram mergulhar no mundo da programação, o que me ajudou a descobrir que tenho interesse nesta área e que pretendo continuar a programar.</p>
     </li>
     <ul>
       <li>
         <h2>Dados pessoais 📫</h2>
         <p>Nascimento: 15 de Junho de 2004</p>
         <p>Email: eduardanere890@gmail.com</p>
-        <p>LinkedIn: https://www.linkedin.com/in/eduarda-nere-rodrigues</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/eduarda-nere-rodrigues" target="_blank">https://www.linkedin.com/in/eduarda-nere-rodrigues</a></p>
         <p>Cidade: Capivari - SP</p>
       </li>
     </ul>
