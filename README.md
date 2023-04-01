@@ -2,14 +2,13 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title></title>
 </head>
 <body>
   <h1>Eduarda Nere Rodrigues</h1>
   <ul>
     <li>
       <h2>Sobre mim 😄</h2>
-      <p>Procuro a oportunidade de desenvolver-me profissionalmente, colocando em prática aspectos abordados em sala de aula. Fazer um bom trabalho em equipe, colaborando assim com meu crescimento profissional e com a instituição a qual fui engajada. Minha especialidade é o desenvolvimento de sites.</p>
+      <p>Busco uma oportunidade para desenvolver-me profissionalmente e colocar em prática o que aprendi no IFSP de Capivari. Durante meu ensino médio, participei de vários projetos que me permitiram mergulhar no mundo da programação, o que me ajudou a descobrir que tenho interesse nesta área e que pretendo continuar a programar. Busco aprimorar minhas habilidades de codificação e ter a oportunidade de trabalhar nessa área seria ótimo, já que pretendo investir mais nela no futuro.</p>
     </li>
     <ul>
       <li>
@@ -37,14 +36,14 @@
     </li>
     <li>
       <h2>Projetos IFSP | Campus Capivari 📚</h2>
-        <strong>Trabalho de conclusão de curso</strong>
-        <p>Pensando na falta de leitores no Brasil, criamos um sistema web responsivo com características semelhantes de um clube do livro para incentivar a leitura no Instituto Federal de Capivari. Exemplo: sistema de login, excluir ou inserir dados, sessão de comentários e restringir perfis (administrador e usuário).</p>
-      
-        <strong>Sistema Web - Departamento de Habitação da Prefeitura Municipal de Capivari</strong>
-        <p>O projeto visou desenvolver, em parceria com a Prefeitura de Capivari, um sistema web responsivo capaz de atender e gerenciar os processos habitacionais de pessoas que vivem em espaços insalubres no Município de Capivari. Exemplo: sistema de login, ChatBot, excluir ou inserir dados e restringir perfis (gestor, administrador e usuário).</p>
-
-        <strong>Conexão: reflexão e conscientização contra a violência à mulher</strong>
-        <p>O projeto se propõe a criar, divulgar e monitorar a repercussão de conteúdos informativos e reflexivos sobre a violência contra a mulher nas redes sociais e na mídia local. Fizemos isso por meio de postagens no Instagram, webinars, cartilhas e vídeos informando as mulheres sobre os serviços de apoio que podem acessar e os tipos de violência que sofrem.</p>
+        <label><b>Trabalho de conclusão de curso</b></label>
+        <p> Pensando na falta de leitores no Brasil, criamos um sistema web responsivo com características semelhantes de um clube do livro para incentivar a leitura no Instituto Federal de Capivari. Exemplo: sistema de login, excluir ou inserir dados, sessão de comentários e restringir perfis (administrador e usuário).</p>
+        <br>
+        <label><b>Sistema Web - Departamento de Habitação da Prefeitura Municipal de Capivari</b></label>
+        <p> O projeto visou desenvolver, em parceria com a Prefeitura de Capivari, um sistema web responsivo capaz de atender e gerenciar os processos habitacionais de pessoas que vivem em espaços insalubres no Município de Capivari. Exemplo: sistema de login, ChatBot, excluir ou inserir dados e restringir perfis (gestor, administrador e usuário). </p>
+        <br>
+        <label><b>Conexão: reflexão e conscientização contra a violência à mulher</b></label>
+        <p> O projeto se propõe a criar, divulgar e monitorar a repercussão de conteúdos informativos e reflexivos sobre a violência contra a mulher nas redes sociais e na mídia local. Fizemos isso por meio de postagens no Instagram, webinars, cartilhas e vídeos informando as mulheres sobre os serviços de apoio que podem acessar e os tipos de violência que sofrem. </p>
     </li>
   </ul>
   <ul>
