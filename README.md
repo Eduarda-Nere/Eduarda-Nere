@@ -56,13 +56,6 @@
       <p>PHP (iniciante)</p>
       <p>C# (iniciante)</p>
     </li>
-    <li>
-      <h2>Competências 👨‍🎓</h2>
-      <p>Dedicada</p>
-      <p>Organizada</p>
-      <p>Trabalho em equipe</p>
-      <p>Gerenciamento do tempo</p>
-    </li>
   </ul>
 </body>
 </html>
