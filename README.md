@@ -8,7 +8,7 @@
   <ul>
     <li>
       <h2>Sobre mim 😄</h2>
-      <p>Busco uma oportunidade para desenvolver-me profissionalmente e colocar em prática o que aprendi no IFSP de Capivari. Durante meu ensino médio, participei de vários projetos que me permitiram mergulhar no mundo da programação, o que me ajudou a descobrir que tenho interesse nesta área e que pretendo continuar a programar.</p>
+      <p>Me formei na área técnica em informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, Campus Capivari. Sou programadora iniciante e descobri meu interesse por esta área no ensino médio, onde trabalhei em projetos como desenvolvedora. Meu objetivo principal é melhorar minhas habilidades e conhecimentos em programação para que eu possa eventualmente construir minhas próprias aplicações e projetos.</p>
     </li>
     <ul>
       <li>
