@@ -18,7 +18,7 @@
     </li>
     <li>
       <h2>Meu portfólio 🔍</h2>
-      <p>Para saber mais sobre mim.</p><a href="https://eduarda-nere.github.io/portfolio/" target="_blank">Clique aqui!</a>
+      <p>Para saber mais sobre mim <a href="https://eduarda-nere.github.io/portfolio/" target="_blank">clique aqui!</a></p>
     </li>
   </ul>
 </body>
