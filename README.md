@@ -17,6 +17,10 @@
       <p>JavaScript, C#, PHP e SQL Database (iniciante)</p>
     </li>
     <li>
+      <h2>Curso 📚</h2>
+      <p>EBAC - Engenheiro Front-end</p>
+    </li>
+    <li>
       <h2>Meu portfólio 🔍</h2>
       <p>Para saber mais sobre mim <a href="https://eduarda-nere.github.io/portfolio/" target="_blank">clique aqui!</a></p>
     </li>
