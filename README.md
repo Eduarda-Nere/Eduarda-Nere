@@ -13,8 +13,8 @@
     <li>
       <h2>Habilidades 💻</h2>
       <p>HTML (avançado)</p>
-      <p>CSS, phpMyAdmin e SQL, MySQL Workbench (Intermediário)</p>
-      <p>JavaScript, C# e PHP (iniciante)</p>
+      <p>CSS (Intermediário)</p>
+      <p>JavaScript, C#, PHP e SQL Database (iniciante)</p>
     </li>
     <li>
       <h2>Meu portfólio 🔍</h2>
