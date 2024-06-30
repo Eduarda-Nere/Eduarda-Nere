@@ -22,7 +22,7 @@
     </li>
     <li>
       <h2>Projeto 💡</h2>
-      <p>Site Web Imobiliária com HTML e CSS
+      <p>Site Web Responsivo Imobiliária com HTML e CSS
         <a href="https://eduarda-nere.github.io/imobiliaria/" target="_blank">clique aqui!</a>
       </p>
     </li>
