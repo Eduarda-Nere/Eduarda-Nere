@@ -21,6 +21,12 @@
       <p>EBAC - Engenheiro Front-end</p>
     </li>
     <li>
+      <h2>Projeto 💡</h2>
+      <p>Site Web Imobiliária com HTML e CSS
+        <a href="https://eduarda-nere.github.io/imobiliaria/" target="_blank">clique aqui!</a>
+      </p>
+    </li>
+    <li>
       <h2>Meu portfólio 🔍</h2>
       <p>Para saber mais sobre mim <a href="https://eduarda-nere.github.io/portfolio/" target="_blank">clique aqui!</a></p>
     </li>
