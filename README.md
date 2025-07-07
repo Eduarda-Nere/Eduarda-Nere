@@ -13,7 +13,7 @@
 💻 Tech Stack
 
 `HTML5` `CSS3/SASS/LESS` `JavaScript (ES6+)` `React` `Vue.js`  
-`Git/GitHub` `Figma` `APIs REST` `jQuery` `Grunt` `Gulp`
+`Git/GitHub` `Figma` `APIs REST` `jQuery` `Grunt` `Gulp` `Bootstrap`
 
 📊 Estatísticas GitHub
 
