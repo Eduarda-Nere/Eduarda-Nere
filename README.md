@@ -5,10 +5,6 @@
 - Formada como **Engenheira Front-end** pela EBAC
 - Descobri minha paixão pela programação durante minha formação técnica no **IFSP Capivari**
 
-💡 Interesses
-
-`Desenvolvimento Web` `UI/UX Design` `JavaScript Moderno` `Acessibilidade` `Metodologias Ágeis`
-
 💻 Tech Stack
 
 `HTML5` `CSS3/SASS/LESS` `JavaScript (ES6+)` `React` `styled-components` `Vue.js`  
