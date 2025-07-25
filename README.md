@@ -3,7 +3,7 @@
 🚀 Minha Jornada
 
 - Formada como **Engenheira Front-end** pela EBAC
-- Descobri minha paixão pela programação durante minha formação técnica no **IFSP Capivari**
+- Descobri meu interesse pela programação durante minha formação técnica no **IFSP Capivari**
 
 💻 Tech Stack
 
