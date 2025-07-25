@@ -4,7 +4,6 @@
 
 - Formada como **Engenheira Front-end** pela EBAC
 - Descobri minha paixão pela programação durante minha formação técnica no **IFSP Capivari**
-- Atualmente me especializando em React, Vue.js e ecossistema JavaScript moderno
 
 💡 Interesses
 
