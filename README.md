@@ -7,8 +7,10 @@
 
 💻 Tech Stack
 
-`HTML5` `CSS3/SASS/LESS` `JavaScript (ES6+)` `React` `styled-components` `Vue.js`  
-`Git/GitHub` `Figma` `APIs REST` `jQuery` `Grunt` `Gulp` `Bootstrap`
+`HTML5` `CSS3/SASS/LESS` `JavaScript (ES6+)` `TypeScript` 
+`React` `Redux Toolkit (RTK)` `React Router DOM` `Vue.js` 
+`styled-components` `jQuery` `Bootstrap` `APIs REST` `Mock Service Worker (MSW)`
+`Cypress` `Gulp` `Grunt` `BEM/SMACSS` `Figma básico`
 
 📊 Estatísticas GitHub
 
