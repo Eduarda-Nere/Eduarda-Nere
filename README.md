@@ -1,9 +1,9 @@
-## 👋 Olá, eu sou a Eduarda
+## ✨ Olá, boas vindas! ✨
 
-🚀 Minha Jornada
+🚀 Minha trajetória 
 
 - Formada como **Engenheira Front-end** pela EBAC
-- Descobri meu interesse pela programação durante minha formação técnica no **IFSP Capivari**
+- Técnica em Informática pelo **IFSP Capivari**
 
 💻 Tech Stack
 
@@ -12,7 +12,6 @@
 `styled-components` `jQuery` `Bootstrap` `APIs REST` `Mock Service Worker (MSW)`
 `Cypress` `Gulp` `Grunt` `BEM/SMACSS` `Figma básico`
 
-📊 Estatísticas GitHub
-
-| ![Minhas estatísticas](https://raw.githubusercontent.com/Eduarda-Nere/Eduarda-Nere/main/stats.svg) | ![Linguagens mais usadas](https://raw.githubusercontent.com/Eduarda-Nere/Eduarda-Nere/main/top-langs.svg) |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="150">
+</p>
