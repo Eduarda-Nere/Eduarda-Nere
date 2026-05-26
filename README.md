@@ -14,5 +14,5 @@
 
 📊 Estatísticas GitHub
 
-| ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Eduarda-Nere&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarda-Nere&layout=compact&langs_count=7&theme=dracula) |
+| ![Minhas estatísticas](https://raw.githubusercontent.com/Eduarda-Nere/Eduarda-Nere/main/stats.svg) | ![Linguagens mais usadas](https://raw.githubusercontent.com/Eduarda-Nere/Eduarda-Nere/main/top-langs.svg) |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
