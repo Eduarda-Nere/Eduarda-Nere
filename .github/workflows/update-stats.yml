@@ -1,6 +1,8 @@
 name: Atualizar Estatísticas do README
 
 on:
+  schedule:
+    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,8 +15,8 @@ jobs:
       
       - name: Baixar estatísticas
         run: |
-          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=Eduarda-Nere&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarda-Nere&layout=compact&langs_count=7&theme=dracula"
+          curl -L -o stats.svg "https://github-readme-stats.ahmadawais.tech/api?username=Eduarda-Nere&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+          curl -L -o top-langs.svg "https://github-readme-stats.ahmadawais.tech/api/top-langs/?username=Eduarda-Nere&layout=compact&langs_count=7&theme=dracula"
           
       - name: Commit e push
         run: |
