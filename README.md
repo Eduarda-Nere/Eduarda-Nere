@@ -2,7 +2,7 @@
 
 🚀 Minha trajetória 
 
-- Formada em **Engenharia Front-end** pela EBAC
+- Formada como **Engenheira Front-end** pela EBAC
 - Técnica em Informática pelo **IFSP Capivari**
 
 💻 Tech Stack
