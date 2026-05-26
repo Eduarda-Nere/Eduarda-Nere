@@ -1,0 +1,37 @@
+name: Atualizar Estatísticas do README
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Gerar novos cards de estatística
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install github-readme-stats
+        run: npm install -g github-readme-stats
+
+      - name: Generate new stats
+        run: |
+          github-readme-stats --username Eduarda-Nere --show_icons true --theme dracula --include_all_commits true --count_private true --output stats.svg
+          github-readme-stats --username Eduarda-Nere --layout compact --langs_count 7 --theme dracula --output top-langs.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update profile stats cards"
+          git push
